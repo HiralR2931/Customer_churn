@@ -1,5 +1,4 @@
-
-# 📉 Netflix Customer Churn Prediction & Dynamic Pricing Optimization
+# 📉 Customer Churn Prediction & Dynamic Pricing Optimization
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
