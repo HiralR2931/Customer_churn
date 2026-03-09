@@ -188,7 +188,6 @@ streamlit run dashboard/app.py
 ## 👥 Author
 
 **Hiral Rana** 
-MS Data Analytics Engineering @ Northeastern University  
 
 ---
 
